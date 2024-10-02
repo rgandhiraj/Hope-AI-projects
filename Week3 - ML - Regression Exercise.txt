@@ -1,0 +1,33 @@
+Week3 - ML - Regression Exercise
+Scenario based learning.
+
+1. How will you achieve this in AI?
+Identify which Domain is it part of and then, identify the learning pattern and then arrive at it is Regression or Classification.
+
+2. Find out the 3 stage of problem identification?
+a)Domain Selection
+     i) Machine Learning
+    ii) Deep Learning
+   III) Natural Language Programming
+   iv) Time Series Analysis
+ 
+b) Learning Selection
+   i) Supervised Learning
+  ii) Semi-supervised Learning
+ iii) Un-supervised Learning
+
+c) Regression or Classification
+
+3) Employee Turnout
+
+4) Dummy Set
+
+ Sl. No. 	Employee Name		Resign or Not
+1			xxxx				Yes
+2			XXX				No
+3			XXXX			
+4			XXXX			
+5			XXXX			Yes
+
+
+
